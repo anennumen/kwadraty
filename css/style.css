@@ -1,0 +1,13 @@
+h1 {
+    color: white;
+    width: 250px;
+    height: 500px;
+    background-color: grey;
+    margin: 40px; 
+}
+    .square {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: 10px;
+}
